@@ -1,0 +1,199 @@
+[
+    {
+        "postId": 0,
+        "username": "nick",
+        "createPost": "First post which has index 0!",
+        "fileToUpload": "uploads\/ronaldo.jpg",
+        "likes": 3,
+        "replies": [
+            "first reply as well!",
+            "another reply!"
+        ]
+    },
+    {
+        "postId": 1,
+        "username": "nick",
+        "createPost": "second post on the platform with index 1",
+        "fileToUpload": "",
+        "likes": 2,
+        "replies": []
+    },
+    {
+        "postId": 2,
+        "username": "nick",
+        "createPost": "Nick is a professional programmer!",
+        "fileToUpload": "",
+        "likes": 2,
+        "replies": []
+    },
+    {
+        "postId": 3,
+        "username": "nick",
+        "createPost": "Nick has an incredible sense of humor!",
+        "fileToUpload": "uploads\/patrik-storm-alstra-pictures-KswvseGgnlk-unsplash.jpg",
+        "likes": 2,
+        "replies": []
+    },
+    {
+        "postId": 4,
+        "username": "noah",
+        "createPost": "My favorite soccer player is neymar!",
+        "fileToUpload": "uploads\/pfp.jpg",
+        "likes": 0,
+        "replies": []
+    },
+    {
+        "postId": 5,
+        "username": "noah",
+        "createPost": "I sure do love youtube its so cool with limitless videos!",
+        "fileToUpload": "",
+        "likes": 2,
+        "replies": [
+            "I know right I watch way too much youtube!",
+            "wait"
+        ]
+    },
+    {
+        "postId": 6,
+        "username": "noah",
+        "createPost": "Go BENGALS!!!",
+        "fileToUpload": "",
+        "likes": 2,
+        "replies": [
+            "Okay heres a reply just letting you know Joe Burrow is good!"
+        ]
+    },
+    {
+        "postId": 7,
+        "username": "noah",
+        "createPost": "Lets go! Im hoping this isn&#039;t a bad winter!",
+        "fileToUpload": "",
+        "likes": 3,
+        "replies": [
+            "Me too!",
+            "yoooo"
+        ]
+    },
+    {
+        "postId": 8,
+        "username": "jacob",
+        "createPost": "Whats better davinci resolve or premier?",
+        "fileToUpload": "",
+        "likes": 2,
+        "replies": []
+    },
+    {
+        "postId": 9,
+        "username": "jacob",
+        "createPost": "I know one thing. CSV is better than json in some ways!",
+        "fileToUpload": "",
+        "likes": 2,
+        "replies": []
+    },
+    {
+        "postId": 10,
+        "username": "jacob",
+        "createPost": "Jacob was here 10\/15\/23",
+        "fileToUpload": "uploads\/messi.jpg",
+        "likes": 1,
+        "replies": []
+    },
+    {
+        "postId": 11,
+        "username": "jacob",
+        "createPost": "I love movies!",
+        "fileToUpload": "",
+        "likes": 2,
+        "replies": [
+            "Heres the reply for jacob!"
+        ]
+    },
+    {
+        "postId": 12,
+        "username": "michael",
+        "createPost": "Michaels post",
+        "fileToUpload": "",
+        "likes": 2,
+        "replies": []
+    },
+    {
+        "postId": 13,
+        "username": "michael",
+        "createPost": "This platform is sweet!",
+        "fileToUpload": "",
+        "likes": 1,
+        "replies": []
+    },
+    {
+        "postId": 14,
+        "username": "michael",
+        "createPost": "I love sunsets!",
+        "fileToUpload": "",
+        "likes": 2,
+        "replies": []
+    },
+    {
+        "postId": 15,
+        "username": "michael",
+        "createPost": "Check out this cool image!",
+        "fileToUpload": "uploads\/spacebanner.jpg",
+        "likes": 1,
+        "replies": [
+            "Wow that is so cool!"
+        ]
+    },
+    {
+        "postId": 16,
+        "username": "jarvis",
+        "createPost": "Jarvis &gt; Ultron!",
+        "fileToUpload": "",
+        "likes": 1,
+        "replies": []
+    },
+    {
+        "postId": 17,
+        "username": "Angela",
+        "createPost": "Tony Stark vs Iron Man Round 2?",
+        "fileToUpload": "",
+        "likes": 0,
+        "replies": [
+            "Reply features are cool!"
+        ]
+    },
+    {
+        "postId": 18,
+        "username": "gerald",
+        "createPost": "This is my banner guys thought I would share!",
+        "fileToUpload": "uploads\/redbanner.jpg",
+        "likes": 0,
+        "replies": []
+    },
+    {
+        "postId": 19,
+        "username": "john",
+        "createPost": "My name is john im new to this platform!",
+        "fileToUpload": "",
+        "likes": 1,
+        "replies": [
+            "This website is so cool!"
+        ]
+    },
+    {
+        "postId": 20,
+        "username": "Jerry",
+        "createPost": "This is another past present example!",
+        "fileToUpload": "",
+        "likes": 0,
+        "replies": []
+    },
+    {
+        "postId": 21,
+        "username": "noah",
+        "createPost": "testing this again!",
+        "fileToUpload": "uploads\/dybala.jpg",
+        "likes": 1,
+        "replies": [
+            "another reply for dybala!"
+        ]
+    }
+]
