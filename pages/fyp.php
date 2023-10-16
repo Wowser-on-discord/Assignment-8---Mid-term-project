@@ -204,7 +204,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['postButton'])) {
             </nav>
         
             <h1 style="display: flex; flex-direction: column; align-items: center; text-align: center;">Most Recent Posts</h1>
-        <?php foreach ($data as $post) { ?>
+            <?php shuffle ($data);
+            foreach ($data as $post) { ?>
             <div class="post">
     <p><strong>Username:</strong> <?php echo $post['username']; ?></p>
     <p><?php echo $post['createPost']; ?></p><br>
